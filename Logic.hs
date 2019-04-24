@@ -1,5 +1,5 @@
 
--- This is the haskell implementation of Tic Tac Toe Player Vs AI
+-- This is the haskell implementation of Tic Tac Toe Player Vs Computer
 -- Code help from : https://codereview.stackexchange.com/questions/110673/tic-tac-toe-in-haskell
 
 module Logic
